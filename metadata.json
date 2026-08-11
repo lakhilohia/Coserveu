@@ -1,0 +1,6 @@
+{
+  "name": "CoServeU - FPC Accounting & Statutory Compliance",
+  "description": "Complete Farmer Producer Company (FPC) accounting, statutory compliance, audit trail, GST, TDS, registers, and Schedule III reporting suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
